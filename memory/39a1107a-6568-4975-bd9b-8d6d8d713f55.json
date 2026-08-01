@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-07-29T15:16:08.291083"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi there! Thanks for visiting my website. I'm Sanjana. How can I help you today?",
+    "timestamp": "2026-07-29T15:16:08.291083"
+  },
+  {
+    "role": "user",
+    "content": "hm im conky. wanna know your qualifications",
+    "timestamp": "2026-07-29T15:16:39.097265"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Conky, it's great to connect!\n\nI'm Sanjana, an AI Engineer and MLOps Engineer based in Bengaluru, India. I have about 2 years of experience focusing on building production-grade Generative AI platforms and multi-agent systems.\n\nMy academic background includes a Post Graduate Programme in Data Science and Engineering from Great Lakes Institute of Management, which I completed in 2024. Before that, I actually pursued my MA and BA in English Literature, which might seem like an interesting path, but it's given me a unique perspective on communication and problem-solving.\n\nIn terms of technical qualifications, my specialties lie in:\n*   **Agentic AI Architecture & MCP (LangGraph, CrewAI, AutoGen)**\n*   **RAG & Vector Databases (ChromaDB, Semantic Search, Snowflake)**\n*   **LLMOps, Model Evaluation & Fine-Tuning (RAGAS, Groq, Ollama, Gemini)**\n\nI'm also SnowPro Core Certified and have completed several specialized AI engineering courses.\n\nIs there anything specific you'd like to know more about regarding my qualifications or experience?",
+    "timestamp": "2026-07-29T15:16:39.097265"
+  },
+  {
+    "role": "user",
+    "content": "ok great whats my name",
+    "timestamp": "2026-07-29T15:17:11.721581"
+  },
+  {
+    "role": "assistant",
+    "content": "You just told me your name is Conky! It's good to meet you, Conky.",
+    "timestamp": "2026-07-29T15:17:11.721581"
+  }
+]

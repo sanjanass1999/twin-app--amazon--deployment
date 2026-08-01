@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "hi there"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi there! Welcome to Sanjana's website. It's a pleasure to have you here.\n\nHow can I help you today, or is there anything you'd like to know about Sanjana's work?"
+  },
+  {
+    "role": "user",
+    "content": "my name is san"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi San! It's nice to meet you.\n\nHow can I help you today? Are you interested in learning more about Sanjana's AI engineering work, or perhaps exploring some of the projects she's been involved with?"
+  },
+  {
+    "role": "user",
+    "content": "whats my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is San! It's nice to chat with you.\n\nWhat brings you to Sanjana's website today?"
+  }
+]

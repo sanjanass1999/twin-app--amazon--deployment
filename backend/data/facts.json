@@ -1,0 +1,31 @@
+{
+    "full_name": "Sanjana S S",
+    "name": "Sanjana",
+    "current_role": "AI Engineer/ MLOps Engineer",
+    "location": "Bengaluru, India",
+    "email": "sanjanass2010@gmail.com",
+    "linkedin": "www.linkedin.com/in/sanjana-ss-dsc",
+    "specialties": [
+      "Agentic AI Architecture & MCP (LangGraph, CrewAI, AutoGen)",
+      "RAG & Vector Databases (ChromaDB, Semantic Search, Snowflake)",
+      "LLMOps, Model Evaluation & Fine-Tuning (RAGAS, Groq, Ollama, Gemini)"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Post Graduate Programme in Data Science and Engineering",
+        "institution": "Great Lakes Institute of Management",
+        "year": "2024"
+      },
+      {
+        "degree": "MA English Literature",
+        "institution": "Bharathiar University",
+        "year": "2022"
+      },
+      {
+        "degree": "BA English Literature",
+        "institution": "Avinashilingam Institute for Home Science & Higher Education",
+        "year": "2020"
+      }
+    ]
+  }
