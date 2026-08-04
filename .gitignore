@@ -1,3 +1,7 @@
 .env
 lambda-deployment.zip
 lambda-package/
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
